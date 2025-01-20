@@ -1,6 +1,8 @@
 # Internship Connect
 
-Internship Connect is a web application designed to connect students and companies through seamless collaboration and internship programs. It offers real-time communication, personalized opportunities, and partnerships with verified companies to ensure a rewarding internship experience.
+Internship Connect is a web application designed to connect students and companies through seamless 
+collaboration and internship programs. It offers real-time communication, personalized opportunities, 
+and partnerships with verified companies to ensure a rewarding internship experience.
 
 ## 🚀 Features
 - **Seamless Communication**: Chat and collaborate with companies in real-time.
